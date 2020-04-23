@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7eaf2b7-52d9-41da-b18c-c2810fcbc31d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1av8SZUM4rP1LDmn86AzS6ZhMbM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cs4432.project2.Main" />
+      <module name="CS4432-Project2" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7eaf2b7-52d9-41da-b18c-c2810fcbc31d" name="Default Changelist" comment="" />
+      <created>1587604707177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587604707177</updated>
+      <workItem from="1587604712853" duration="16159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587654044919">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1587654044919" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom" timestamp="1587674601689">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1587674601689" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center" timestamp="1587674601688">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1587674601688" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left" timestamp="1587674601688">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1587674601688" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right" timestamp="1587674601688">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1587674601688" />
+  </component>
+</project>
