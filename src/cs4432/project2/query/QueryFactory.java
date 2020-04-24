@@ -7,12 +7,12 @@ public class QueryFactory {
             return Query.BUILD_INDEX;
         } else if (query.startsWith("select * from project2dataset where")) {
             query = query.replace("select * from project2dataset where", "");
-            if (query.contains("=")) {
-                return Query.EQUALITY;
+            if (query.contains("!=")) {
+                return Query.INEQUALITY;
             } else if (query.contains(">") && query.contains("<")) {
                 return Query.RANGE;
-            } else if (query.contains("!=")) {
-                return Query.INEQUALITY;
+            } else if (query.contains("=")) {
+                return Query.EQUALITY;
             }
         }
 

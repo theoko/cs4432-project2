@@ -1,0 +1,19 @@
+select * from project2dataset where randomv = 1
+select * from project2dataset where randomv = 5
+select * from project2dataset where randomv = 15
+select * from project2dataset where randomv != 4998
+select * from project2dataset where randomv != 4999
+select * from project2dataset where randomv != 5000
+select * from project2dataset where randomv > 5 and randomv < 15
+select * from project2dataset where randomv > 100 and randomv < 150
+select * from project2dataset where randomv > 1500 and randomv < 2000
+create index on randomv
+select * from project2dataset where randomv = 1
+select * from project2dataset where randomv = 5
+select * from project2dataset where randomv = 15
+select * from project2dataset where randomv != 4998
+select * from project2dataset where randomv != 4999
+select * from project2dataset where randomv != 5000
+select * from project2dataset where randomv > 5 and randomv < 15
+select * from project2dataset where randomv > 100 and randomv < 150
+select * from project2dataset where randomv > 1500 and randomv < 2000

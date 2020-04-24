@@ -12,9 +12,17 @@ public class Manager {
         this.arrayBasedIndex = new ArrayBasedIndex();
         this.hashBasedIndex = new HashBasedIndex();
         this.created = true;
-
-        // flush() ??
     }
 
+    public boolean indexesCreated() {
+        return created;
+    }
 
+    public ArrayBasedIndex getArrayBasedIndex() {
+        return arrayBasedIndex;
+    }
+
+    public HashBasedIndex getHashBasedIndex() {
+        return hashBasedIndex;
+    }
 }

@@ -4,11 +4,13 @@ public class DataFrame {
     int blockID;
     int recID;
     int randomV;
+    String content;
 
-    public DataFrame(int blockID, int recID, int randomV) {
+    public DataFrame(int blockID, int recID, int randomV, String content) {
         this.blockID = blockID;
         this.recID = recID;
         this.randomV = randomV;
+        this.content = content;
     }
 
     public int getBlockID() {
@@ -21,5 +23,9 @@ public class DataFrame {
 
     public int getRandomV() {
         return randomV;
+    }
+
+    public String getContent() {
+        return content;
     }
 }
