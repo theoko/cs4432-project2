@@ -1,8 +1,18 @@
 Name: Theodoros Konstantopoulos
 ID: 827449875
 
+Section I:
+- Import the project (src folder) in an IDE (such as Eclipse or IntelliJ)
+- Copy the "Project2Dataset" directory (dataset) in the same directory as the project
+- Setup SDK (I developed this using version 11)
+- Run the main method in the Main.java file
 
+The program will not terminate unless an invalid command is given or it is stopped.
 
+Section II:
+The tests in the "tests" file are all working.
 
+Section III:
 It is assumed, as per the assignment instructions, that there will not be a query that requests specific record fields other than all (*).
-Also, it is assumed that the Project2Dataset will always be used.
+Also, it is assumed that the Project2Dataset will always be used. Please note that the query parsing implemented is not ideal because it only works for the commands
+mentioned in the project requirements.
